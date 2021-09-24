@@ -21,4 +21,4 @@ Why? Let's replay what's happening at line `(*)`:
 
 **This example clearly shows that primitives are not objects.**
 
-They can't store additional data.
+They can't store additional Data.
